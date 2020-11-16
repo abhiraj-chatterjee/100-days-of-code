@@ -1,6 +1,6 @@
 # Primary Resources on the #100DaysOfCode
 
-[The #100DaysOfCode Official Site](http://100daysofcode.com/)
+<!-- [The #100DaysOfCode Official Site](http://100daysofcode.com/)
 
 ### Articles
 1. [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) freeCodeCamp Medium
@@ -39,4 +39,4 @@
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
-* [Resources](resources.md)
+* [Resources](resources.md) -->
