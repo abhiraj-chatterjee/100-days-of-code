@@ -9,3 +9,11 @@
 **Link(s) to work:** 
 1. [Sustain Market](https://github.com/abhiraj-chatterjee/sustain-market)
 2. [Cocktail Maker](https://github.com/abhiraj-chatterjee/CocktailMaker)
+
+### Day 2: November 18, 2020
+
+**Today's Progress**: Created a React frontend for Sustain Market along with designing profile API for clients and vendors.
+
+**Thoughts**: Learned about linking Bootstrap navigation with React Router.
+
+**Link(s) to work:** [Sustain Market](https://github.com/abhiraj-chatterjee/sustain-market)
