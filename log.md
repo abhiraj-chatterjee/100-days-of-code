@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 1: November 17, 2020
+
+**Today's Progress**: Started Sustain Market Project by setting up an Flask API for vendors connected to a MongoDB Atlas Cloud NoSQL Database. Added CRUD functionality to the API.
+
+**Thoughts**: I struggled with working with ObjectId type and coming up with ideas for designing the API.
+
+**Link to work:** [Sustain Market](https://github.com/abhiraj-chatterjee/sustain-market)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
