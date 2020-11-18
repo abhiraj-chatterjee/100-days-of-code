@@ -2,37 +2,10 @@
 
 ### Day 1: November 17, 2020
 
-**Today's Progress**: Started Sustain Market Project by setting up an Flask API for vendors connected to a MongoDB Atlas Cloud NoSQL Database. Added CRUD functionality to the API.
+**Today's Progress**: Started Sustain Market Project by setting up an Flask API for vendors connected to a MongoDB Atlas Cloud NoSQL Database. Added CRUD functionality to the API. I also setup the storyboards for Cocktail Maker iOS app. 
 
 **Thoughts**: I struggled with working with ObjectId type and coming up with ideas for designing the API.
 
-**Link to work:** [Sustain Market](https://github.com/abhiraj-chatterjee/sustain-market)
-
-<!-- ### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+**Link(s) to work:** 
+1. [Sustain Market](https://github.com/abhiraj-chatterjee/sustain-market)
+2. [Cocktail Maker](https://github.com/abhiraj-chatterjee/CocktailMaker)
